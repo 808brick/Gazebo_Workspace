@@ -2,7 +2,7 @@
 
 This Gazebo project is a simple model created using the tools within Gazebo. Gazebo is a simulation tool associated with Robot Operating System (ROS) to simulate a model of a robot interacting in an environment. It's ROS capabilities allow for control of the simulated robots, as well as produce simulated sensor data, similar to that of real sensors such as GPS, LiDAR, radar, cameras, and more.
 
-![Kanaloa Lab Gazebo Simulation](images/gazebo_kanaloa_lab_2.png)
+![Kanaloa Lab Gazebo Simulation](images/Kanaloa_Lab_v2.png)
 
 
 ### Model Editor
@@ -40,7 +40,9 @@ To run the gazebo world, you must have Gazebo installed and run the following in
 
 
 ```bash
-cd /path/to/Gazebo_Workspace/build  #Substitute with your own path to directory
+cd /path/to/Gazebo_Workspace/  #Substitute with your own path to directory
+mkdir build
+cd build
 cmake ../
 make
 export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/path/to/Gazebo_Workspace/build

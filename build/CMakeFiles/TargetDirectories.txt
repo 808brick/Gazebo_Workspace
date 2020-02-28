@@ -1,3 +1,0 @@
-/home/raymond/Udacity/Robotics/1_Gazebo/Gazebo_Workspace/build/CMakeFiles/rebuild_cache.dir
-/home/raymond/Udacity/Robotics/1_Gazebo/Gazebo_Workspace/build/CMakeFiles/hello.dir
-/home/raymond/Udacity/Robotics/1_Gazebo/Gazebo_Workspace/build/CMakeFiles/edit_cache.dir
